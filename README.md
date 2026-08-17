@@ -2,9 +2,6 @@
 
 An interactive **Power BI Internship Scam Analytics Dashboard** created to analyze internship listings, identify genuine and scam opportunities, compare scam reports across cities and domains, and explore stipend, placement-promise, company, and remote-work risk indicators.
 
-## 📌 Dashboard Preview
-
-![Internship Scam Analytics Dashboard](Dashboard/internship_scam_analytics_dashboard.png)
 
 ## 🎯 Project Objective
 
